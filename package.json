@@ -5,7 +5,7 @@
     "An example module demonstrating how to share react components",
   "main": "build/index.js",
   "repository":
-    "https://github.com/powderham/shared-react-component-example.git",
+    "https://github.com/User6531/shared-react-component-example.git",
   "author": "Ed Powderham",
   "license": "MIT",
   "dependencies": {
