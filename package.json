@@ -1,17 +1,17 @@
 {
   "name": "shared-react-component-example",
   "version": "0.1.0",
-  "description":
-    "An example module demonstrating how to share react components",
+  "description": "An example module demonstrating how to share react components",
   "main": "build/index.js",
-  "repository":
-    "https://github.com/User6531/shared-react-component-example.git",
+  "repository": "https://github.com/User6531/shared-react-component-example.git",
   "author": "Ed Powderham",
   "license": "MIT",
   "dependencies": {
-    "react": "^16.2.0"
+    "react": "^16.2.0",
+    "typescript": "^4.9.3"
   },
   "devDependencies": {
+    "@types/react": "^18.0.25",
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1",
     "babel-preset-react": "^6.24.1",
